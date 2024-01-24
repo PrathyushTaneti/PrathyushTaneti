@@ -1,4 +1,11 @@
-### Hi there 👋
+### Greetings,
+
+##It is a pleasure to introduce myself. 
+
+I am Prathyush Taneti, a seasoned software developer with expertise in the development of web, Android, and iOS applications. 
+Over the course of my career, I have successfully contributed to projects across diverse domains, including Human Resource Management (HRM) systems and Enterprise Resource Planning (ERP) systems. 
+
+Here are further more details of myself which might interests you.
 
 <!--
 **PrathyushTaneti/PrathyushTaneti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
