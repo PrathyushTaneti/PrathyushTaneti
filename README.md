@@ -7,7 +7,6 @@
 
 ### Here are further more details of myself which might interests you.
 
-### Name : Prathyush Taneti
 ### Work Email : prathyush@iqdynamics-tech.com
 ### Place : Hyderabad
 
