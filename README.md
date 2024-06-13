@@ -7,7 +7,7 @@
 
 ### Here are further more details of myself which might interests you.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathyushTaneti&layout=donut)](https://github.com/PrathyushTaneti/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathyushTaneti&layout=compact)
 
 ![Prathyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathyushTaneti&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
