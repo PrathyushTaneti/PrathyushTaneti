@@ -7,8 +7,8 @@
 
 ### Here are further more details of myself which might interests you.
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathyushTaneti&layout=compact"/>
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=PrathyushTaneti&hide=contribs,prs"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathyushTaneti&layout=compact"/>
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=PrathyushTaneti&hide=contribs,prs"/>
 
 
 
