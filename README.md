@@ -9,6 +9,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathyushTaneti)](https://github.com/PrathyushTaneti/github-readme-stats)
 
+
+![Prathyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathyushTaneti&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathyushTaneti&hide=contribs,prs)
+
 ### Work Email : prathyush@iqdynamics-tech.com
 ### Place : Hyderabad
 
