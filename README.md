@@ -14,9 +14,6 @@
 
 
 
-### Work Email : prathyush@iqdynamics-tech.com
-### Place : Hyderabad
-
 <!--
 **PrathyushTaneti/PrathyushTaneti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
