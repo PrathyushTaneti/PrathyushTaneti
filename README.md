@@ -7,6 +7,8 @@
 
 ### Here are further more details of myself which might interests you.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathyushTaneti)](https://github.com/PrathyushTaneti/github-readme-stats)
+
 ### Work Email : prathyush@iqdynamics-tech.com
 ### Place : Hyderabad
 
