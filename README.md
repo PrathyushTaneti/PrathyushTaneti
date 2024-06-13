@@ -1,4 +1,4 @@
-## Greetings,
+# Hello, I am Prathyush Taneti
 
 ### It is a pleasure to introduce myself. 
 
