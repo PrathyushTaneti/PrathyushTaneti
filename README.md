@@ -5,7 +5,7 @@
 ### Here are further more details of myself which might interests you.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathyushTaneti&layout=compact&show_icons=true&theme=radical"/>
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=PrathyushTaneti&hide=contribs,prs&show_icons=true&theme=radical"/>
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=PrathyushTaneti&show_icons=true&theme=radical"/>
 
 
 
