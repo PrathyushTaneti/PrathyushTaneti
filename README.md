@@ -1,6 +1,6 @@
 # Hello, I am Prathyush Taneti
 
-### As software developer with expertise in the development of WEB, Android, IOS, DESKTOP applications, I have successfully contributed to projects across diverse domains, including Human Resource Management (HRM) systems and Enterprise Resource Planning systems. 
+### As software developer with expertise in the development of WEB, Mobile(Android/IOS), DESKTOP applications, I have successfully contributed to projects across diverse domains, including Human Resource Management (HRM) systems and Enterprise Resource Planning systems. 
 
 ### Here are further more details of myself which might interests you.
 
