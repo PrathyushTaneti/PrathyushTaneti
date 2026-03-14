@@ -4,17 +4,36 @@
 [![Email](https://img.shields.io/badge/Email-prathyushtaneti%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:prathyushtaneti@gmail.com)
 [![Twitter](https://img.shields.io/badge/X-@PrathyushTaneti-black?style=for-the-badge&logo=x)](https://x.com/PrathyushTaneti)
 
+---
+
 ## 💼 Full Stack And Mobile Application Developer | Computer Science Graduate
 
 > As software developer with expertise in the development of **WEB**, **Mobile(Android/IOS)**, **DESKTOP** applications, I have successfully contributed to projects across diverse domains, including Human Resource Management (HRM) systems and Enterprise Resource Planning systems. 
 
-## ⚒️ Here are further more details of myself which might interests you.
+---
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathyushTaneti&layout=compact&show_icons=true&theme=radical"/>
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=PrathyushTaneti&show_icons=true&theme=radical"/>
+## 🧠 Core Stack
 
+**Backend**
+`C#` `.NET` `Minimal Api's` `Python` `Django` `Flask` `PostgreSQL` `Redis` `SQLAlchemy` `REST API's` `Git`
 
+**Cloud & Infra**
+`Azure` `Docker` `Docker Compose` `GitHub Actions` `Linux` `GCP`
 
+**AI / ML**
+`LLMs` `LangChain` `OpenAI API` `HuggingFace` `Transformers` `RAG` `pgvector` `Pinecone` `NLP` `scikit-learn`
+
+**Other**
+`Dart` `Flutter` `n8n` 
+
+---
+
+<section>
+  <p align="center">
+  <i>Hyderabad, India · Open to collaborations & opportunities</i><br/>
+  <b>Let's build something production-ready.</b>
+</p>
+</section>
 
 
 <!--
