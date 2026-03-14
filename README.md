@@ -1,4 +1,9 @@
-# Hi, I am Prathyush 👋
+# Hi, I'm Prathyush Taneti👋
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-reachout--to--prathyush-black?style=for-the-badge&logo=vercel)](https://prathyush-taneti.web.app/) &nbsp;
+[![Email](https://img.shields.io/badge/Email-prathyushtaneti%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:prathyushtaneti@gmail.com)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/X-@PrathyushTaneti-black?style=for-the-badge&logo=x)](https://x.com/PrathyushTaneti)
 
 ### As software developer with expertise in the development of WEB, Mobile(Android/IOS), DESKTOP applications, I have successfully contributed to projects across diverse domains, including Human Resource Management (HRM) systems and Enterprise Resource Planning systems. 
 
