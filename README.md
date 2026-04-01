@@ -6,7 +6,7 @@
 
 ---
 
-## 💼 Full Stack And Mobile Application Developer | Computer Science Graduate
+## 💼 Developer(Full Stack/Mobile/Desktop) | Computer Science Graduate
 
 > As software developer with expertise in the development of **WEB**, **Mobile(Android/IOS)**, **DESKTOP** applications, I have successfully contributed to projects across diverse domains, including Human Resource Management (HRM) systems and Enterprise Resource Planning systems. 
 
